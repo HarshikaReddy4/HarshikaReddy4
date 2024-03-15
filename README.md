@@ -1,5 +1,5 @@
 ![logo](https://github.com/HarshikaReddy4/HarshikaReddy4/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Harshika</h1>
+<h1 align="center">Hi 👋, I'm  Harshika</h1>
 <h3 align="center">A passionate Java developer from SRM Institute of Science and Technology</h3>
 
 
